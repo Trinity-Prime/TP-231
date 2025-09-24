@@ -1,6 +1,3 @@
 Vectoriel.c
 
-Définire une fonction prodVec qui calcule le produit vectoriel de deux vecteurs 3D.
-
-Le main saisit deux vecteurs U et V, puis affiche leur produit vectoriel W.
-Objectif : application de l’algèbre vectorielle en programmation C.
+Ici, le programme s’intéresse au produit vectoriel de deux vecteurs en 3D, une opération géométrique très utilisée. L’utilisateur entre les coordonnées de deux vecteurs, et le programme calcule un troisième vecteur qui leur est perpendiculaire. Ce résultat n’est pas qu’un simple calcul : il illustre une réalité géométrique, puisque la longueur de ce vecteur correspond à l’aire du parallélogramme formé par les deux vecteurs de départ. C’est un bel exemple de la manière dont on peut traduire des concepts abstraits de mathématiques et de physique en un code clair et fonctionnel en langage C.
