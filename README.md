@@ -1,0 +1,1 @@
+Ce projet en C rassemble plusieurs petits programmes pour s’entraîner à la programmation et à l’algèbre linéaire. On y trouve des manipulations d’entiers, de tableaux, de matrices et de vecteurs, avec des exemples concrets de boucles, fonctions et conditions.
